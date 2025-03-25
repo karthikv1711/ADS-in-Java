@@ -1,0 +1,11 @@
+1)Max heap
+2)Min heap
+3)BFS using AL
+4)BFS using AM
+5)DFS using AL
+6)DFS using AM
+7)Quick Sort
+8)Merge Sort
+9)Single Source Shortest path using AL
+10)Single Source Shortest path using AM
+11)Job Sequence Deadlines
